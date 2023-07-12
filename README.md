@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩‍💻 Trabalho atualmente no Affinity Seguro de Viagem
+
+- 🧠 Estou aprendendo ASP Classic, C#, .NET
+
+- 👯‍♀️ Procuro colaborar em o que eu puder ajudar
+
+- 🤔 Procuro ajuda com IA
+
+- 💬 Me pergunte sobre Jogos do Mario :video_game:
+
+- 📫 Como entrar em contato comigo: kazuo.hagy@gmail.com
+
+- 😄 Pronomes: Elo/Delo
+
+- ⚡️ Fatos engraçados: Se o cérebro humano fosse um computador, ele poderia realizar 38 mil trilhões de operações por segundo. Aliás, o supercomputador mais poderoso do mundo, BlueGene, pode gerenciar apenas 0,002% disso.
+
 <div align="center">
   <a href="https://github.com/kazuohagy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazuohagy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
