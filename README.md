@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 Como entrar em contato comigo: kazuo.hagy@gmail.com
 
-- 😄 Pronomes: Elo/Delo
+- 😄 Pronomes: Ele/Dele
 
 - ⚡️ Fatos engraçados: Se o cérebro humano fosse um computador, ele poderia realizar 38 mil trilhões de operações por segundo. Aliás, o supercomputador mais poderoso do mundo, BlueGene, pode gerenciar apenas 0,002% disso.
 
