@@ -20,15 +20,6 @@ Here are some ideas to get you started:
 
 - 🧠 Estou aprendendo ASP Classic, C#, .NET
 
-- 👯‍♀️ Procuro colaborar em o que eu puder ajudar
-
-- 🤔 Procuro ajuda com IA
-
-- 💬 Me pergunte sobre Jogos do Mario :video_game:
-
-- 📫 Como entrar em contato comigo: kazuo.hagy@gmail.com
-
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/kazuohagy">
