@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 👩‍💻 Trabalho atualmente no Affinity Seguro de Viagem
 
 - 🧠 Estou aprendendo ASP Classic, C#, .NET
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - ⚡️ Fatos engraçados: Se o cérebro humano fosse um computador, ele poderia realizar 38 mil trilhões de operações por segundo. Aliás, o supercomputador mais poderoso do mundo, BlueGene, pode gerenciar apenas 0,002% disso.
 
-
+-->
 <div align="center">
   <a href="https://github.com/kazuohagy">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazuohagy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
@@ -60,9 +60,13 @@ Here are some ideas to get you started:
   
 <div>
     <a href="https://www.linkedin.com/in/gustavo-kazuo-dantas-hagy-92a2511b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UC75nm2VMeAOwZmRR2tKIR7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/kazuo.dantas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/japaaranha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kazuo.dantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-:snake: a cobrinha nao funciona mais :/
+:snake: a cobrinha nao funciona mais 😔
 
 ![Snake animation](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
 
