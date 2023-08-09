@@ -50,6 +50,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/gustavo-kazuo-dantas-hagy-92a2511b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
+
 ![Snake animation](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
 
   
