@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <a href = "mailto:kazuo.dantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- A cobrinha:snake: nao funciona mais 😔
+ A cobrinha:snake: nao funciona mais 😔👇
 
 ![Snake animation](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
 
