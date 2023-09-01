@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 
-### Olá!! eu sou o Gustavo Kazuo 👋
+## Hello everyone!! I'm Gustavo Kazuo 👋 
+### Welcome to my Git Hub 🌱
 
 <!--
 **kazuohagy/kazuohagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
