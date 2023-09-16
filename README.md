@@ -80,7 +80,8 @@ Here are some ideas to get you started:
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 <div align="center">
 
- <a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://github.com/kazuohagy/kazuohagy/assets/73189635/17658a3d-8f55-45e0-a2a2-7e1fa777caec"/></a>
+
+  [![name](https://imagens-two.vercel.app/img/giphy%20(1).gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
 
 </div>
 
