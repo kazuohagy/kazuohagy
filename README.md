@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-  [![name](https://imagens-two.vercel.app/img/giphy%20(1).gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+
+  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/git.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
 
 </div>
 
