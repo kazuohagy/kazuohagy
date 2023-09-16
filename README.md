@@ -70,13 +70,17 @@ Here are some ideas to get you started:
 </div>
 
  A cobrinha:snake: nao funciona mais 😔👇
+ <div align="center">
+
  [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
+
+</div>
+
 [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 <div align="center">
 
-  [![giphy (1)](https://github.com/kazuohagy/kazuohagy/assets/73189635/57e39e59-0683-4bcf-94bd-2d4bdce7349b)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
-  [![name](https://github.com/kazuohagy/kazuohagy/assets/73189635/57e39e59-0683-4bcf-94bd-2d4bdce7349b)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+ <a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://github.com/kazuohagy/kazuohagy/assets/73189635/17658a3d-8f55-45e0-a2a2-7e1fa777caec"/></a>
 
 </div>
 
