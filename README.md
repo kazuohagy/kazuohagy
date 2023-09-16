@@ -82,7 +82,8 @@ Here are some ideas to get you started:
 
 
 
-  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/git.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/w.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+  [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
 
