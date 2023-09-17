@@ -80,10 +80,8 @@ Here are some ideas to get you started:
 [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 <div align="center">
 
+  [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA)
 
-  [![giphy (1)](https://github.com/kazuohagy/kazuohagy/assets/73189635/3c19c7b5-092f-4c08-9539-4af31fe81cfb)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
-  
-  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/the-witcher.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
   
   [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
