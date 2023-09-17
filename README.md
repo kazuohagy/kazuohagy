@@ -81,11 +81,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-
-  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/w.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+  [![giphy (1)](https://github.com/kazuohagy/kazuohagy/assets/73189635/3c19c7b5-092f-4c08-9539-4af31fe81cfb)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+  
+  [![name](https://kazuo-bio-kazuohagy.vercel.app/assets/img/the-witcher.gif)](https://www.youtube.com/watch?v=wL8DVHuWI7Y)
+  
   [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
+
 
 ![Snake animation](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
 
