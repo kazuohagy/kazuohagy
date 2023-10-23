@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <a href = "mailto:kazuo.dantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- A cobrinha:snake: nao funciona mais 😔👇
+
  <div align="center">
 
  [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
@@ -84,6 +84,8 @@ Here are some ideas to get you started:
 
   
   [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+   A cobrinha:snake: nao funciona mais 😔👇
 
 </div>
 
