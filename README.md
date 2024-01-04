@@ -86,11 +86,8 @@ Here are some ideas to get you started:
   
   [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-   A cobrinha:snake: nao funciona mais 😔👇
 
 </div>
 
-
-![Snake animation](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake.svg)
 
   
