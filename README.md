@@ -77,10 +77,11 @@ Here are some ideas to get you started:
 
 </div>
 
-[![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
-[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
-<div align="center">
 
+
+<div align="center">
+ 
+  [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs)
   [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA)
 
   
