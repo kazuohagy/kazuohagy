@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
  <div align="center">
 
- <!--[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)-->
+ [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
 
 </div>
 
@@ -81,9 +81,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-  <!---[![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs))
+  [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs))
   
-  [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA) --->
+  [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA) 
+
+   <a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://github.com/kazuohagy/kazuohagy/assets/73189635/17658a3d-8f55-45e0-a2a2-7e1fa777caec"/></a>
 
   
   [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
