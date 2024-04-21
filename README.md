@@ -86,9 +86,11 @@ Here are some ideas to get you started:
   [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA) 
 
    <a href="https://www.youtube.com/watch?v=wL8DVHuWI7Y"><img src="https://github.com/kazuohagy/kazuohagy/assets/73189635/17658a3d-8f55-45e0-a2a2-7e1fa777caec"/></a>
+   
+  [![_-WEce (1)](https://github.com/kazuohagy/kazuohagy/assets/73189635/9110dcad-7497-45f9-9f54-f61bb576a0a0)](https://www.youtube.com/watch?v=Z7BByo2V-HA&list=RDndenXpxSA9A&index=3) 
 
   
-  [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  <!--[Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
 
 </div>
