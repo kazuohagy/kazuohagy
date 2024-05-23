@@ -72,8 +72,10 @@ Here are some ideas to get you started:
 
 
  <div align="center">
+  
+   ![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake-dark.svg)
 
- [![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8)
+   <!--[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8) -->
 
 </div>
 
@@ -81,7 +83,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-  [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs))
+  <!-- [![Ryan Gosling Drive](https://media.tenor.com/oD-37469E8YAAAAC/ryan-gosling-drive.gif)](https://youtu.be/PJEJHU7wYxs))
   
   [![WhatsApp Image 2023-09-15 at 14 13 25](https://giffiles.alphacoders.com/207/207125.gif)](https://www.youtube.com/watch?v=Gxp0HgHpkhA) 
 
@@ -90,7 +92,7 @@ Here are some ideas to get you started:
   [![_-WEce (1)](https://github.com/kazuohagy/kazuohagy/assets/73189635/9110dcad-7497-45f9-9f54-f61bb576a0a0)](https://www.youtube.com/watch?v=Z7BByo2V-HA&list=RDndenXpxSA9A&index=3) 
 
   
-  <!--[Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+ [Easter Egg Click me 🥚](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
 
 </div>
