@@ -16,7 +16,8 @@ REDSTONE GANG
 <!--[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL) -->
 [No, you cant fix that](https://www.youtube.com/watch?v=yKjfdJBy3d0)
 
-
+doit everthing its possible
+QUEIZY QUEIZY
 <!--
 **kazuohagy/kazuohagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 pontinhos verdes
