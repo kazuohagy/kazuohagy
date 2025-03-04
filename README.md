@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 
-
 ## Hello everyone!! I'm Gustavo Kazuo 👋 
 ### Welcome to my Git Hub 🌱
 I love play MI NE CRAFT in my free time.
