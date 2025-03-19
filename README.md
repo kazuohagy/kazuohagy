@@ -81,7 +81,7 @@ eu sou sozinho
 
  <div align="center">
   
-   ![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake-dark.svg)
+   <!--![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake-dark.svg)-->
 
    <!--[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8) -->
 
