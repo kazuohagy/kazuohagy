@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... to cansado
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-eu sou sozinho
 
 - 👩‍💻 Trabalho atualmente no Affinity Seguro de Viagem
 
