@@ -11,7 +11,6 @@ REDSTONE GANG
 <a href="https://www.youtube.com/@japaranha2034" target="_blank">
     <img src="https://github.com/user-attachments/assets/0a752492-a091-4799-bf08-289f12463f5f" alt="YouTube Icon" width="30" height="30">
 </a>
-
 <!--[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL) -->
 <!--
 **kazuohagy/kazuohagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
