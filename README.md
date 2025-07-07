@@ -2,7 +2,8 @@
 
 ## Hello everyone!! I'm Gustavo Kazuo 👋 
 ### Welcome to my Git Hub 🌱
-I love play MI NE CRAFT in my free time.
+System.Diagnostics.Debug.Write("")
+
 <a href="https://www.youtube.com/@japaranha2034" target="_blank">
     <img src="https://github.com/user-attachments/assets/9a3e2516-328f-4e94-aebf-fce09d40290f" alt="YouTube Icon" width="30" height="30">
 </a>
