@@ -2,22 +2,22 @@
 
 ## Hello everyone!! I'm Gustavo Kazuo 👋 
 ### Welcome to my Git Hub 🌱
-System.Diagnostics.Debug.Write("")
-response.write("Correndo")
-
+I love play MI NE CRAFT in my free time.
 <a href="https://www.youtube.com/@japaranha2034" target="_blank">
     <img src="https://github.com/user-attachments/assets/9a3e2516-328f-4e94-aebf-fce09d40290f" alt="YouTube Icon" width="30" height="30">
 </a>
+
+REDSTONE GANG 
 <a href="https://www.youtube.com/@japaranha2034" target="_blank">
     <img src="https://github.com/user-attachments/assets/0a752492-a091-4799-bf08-289f12463f5f" alt="YouTube Icon" width="30" height="30">
 </a>
-
 
 <!--[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL) -->
 <!--
 **kazuohagy/kazuohagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 pontinhos verdes
 Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -51,20 +51,18 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuohagy&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<div style="diplay: inline_block"><br>
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> 
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />  
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
-  
-  
+<div>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> 
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> 
 </div>
 
 ##  
@@ -80,7 +78,7 @@ Here are some ideas to get you started:
 
  <div align="center">
   
-   <!--![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake-dark.svg)-->
+   ![snake gif](https://github.com/kazuohagy/kazuohagy/blob/output/github-contribution-grid-snake-dark.svg)
 
    <!--[![Im actually ken not 0vm](https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif)](https://youtu.be/ruawVE5GwM8) -->
 
