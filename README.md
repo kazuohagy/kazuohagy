@@ -2,48 +2,9 @@
 
 ## Hello everyone!! I'm Gustavo Kazuo 👋 
 ### Welcome to my Git Hub 🌱
-I love play MI NE CRAFT in my free time.
-<a href="https://www.youtube.com/@japaranha2034" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9a3e2516-328f-4e94-aebf-fce09d40290f" alt="YouTube Icon" width="30" height="30">
-</a>
 
-REDSTONE GANG 
-<a href="https://www.youtube.com/@japaranha2034" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0a752492-a091-4799-bf08-289f12463f5f" alt="YouTube Icon" width="30" height="30">
-</a>
+[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL)
 
-<!--[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL) -->
-<!--
-**kazuohagy/kazuohagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-pontinhos verdes
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... to cansado
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 👩‍💻 Trabalho atualmente no Affinity Seguro de Viagem
-
-- 🧠 Estou aprendendo ASP Classic, C#, .NET
-
-- 👯‍♀️ Procuro colaborar em o que eu puder ajudar
-
-- 🤔 Procuro ajuda com IA
-
-- 💬 Me pergunte sobre Jogos do Mario :video_game:
-
-- 📫 Como entrar em contato comigo: kazuo.hagy@gmail.com
-
-- 😄 Pronomes: Ele/Dele
-
-- ⚡️ Fatos engraçados: Se o cérebro humano fosse um computador, ele poderia realizar 38 mil trilhões de operações por segundo. Aliás, o supercomputador mais poderoso do mundo, BlueGene, pode gerenciar apenas 0,002% disso.
- 
--->
 <div align="center">
   <a href="https://github.com/kazuohagy">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazuohagy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
