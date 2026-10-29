@@ -3,7 +3,7 @@
 ## Hello everyone!! I'm Gustavo Kazuo 👋 
 ### Welcome to my Git Hub 🌱
 
-[Today, I'm going to talk about C++](https://youtu.be/Yw6u6YkTgQ4?list=LL)
+[Today, I'm going to talk about C++](https://youtu.be/l0qvxPPISuY?si=GA0oy3pSD6Hz29sh&t=20)
 
 <div align="center">
   <a href="https://github.com/kazuohagy">
