@@ -8,11 +8,15 @@
 <div align="center">
   <a href="https://github.com/kazuohagy">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazuohagy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazuohagy&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kazuohagy&theme=dark"/>
+
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuohagy&layout=compact&langs_count=8&theme=dark"/>
+
+  
 </div>
 
-<div>
+<div style="margin-top:10px">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
@@ -24,6 +28,9 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> 
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
 ##  
